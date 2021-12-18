@@ -1,7 +1,7 @@
-# Download the helper library from https://www.twilio.com/docs/python/install
 import os
 from twilio.rest import Client
-from dotenv import load_dotenv 
+from dotenv import load_dotenv
+
 
 #Load environmental variables
 load_dotenv() 
