@@ -6,3 +6,9 @@ https://github.com/SeanDaBlack/KelloggBot/pulls
 
 # Aspire Site
 https://aspire-together.org/contact-us/
+
+## Installation 
+
+```
+pip install -r requirements.txt
+```
