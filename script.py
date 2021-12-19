@@ -15,7 +15,7 @@ auth_token = os.getenv('Auth')
 client = Client(account_sid, auth_token)
 
 def randomPregnancyIntro():
-    message = ['Hello! I think I am pregnant']
+    message = ['Hello! I think I am pregnant', 'I am worried I might be pregnant.']
     return (random.choice(message))
 
 
