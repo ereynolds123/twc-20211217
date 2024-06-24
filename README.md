@@ -10,3 +10,8 @@ https://aspire-together.org/contact-us/
 # Info on Crisis Pregnancy Center
 https://crisispregnancycentermap.com/
 
+## Installation 
+
+```
+pip install -r requirements.txt
+```
